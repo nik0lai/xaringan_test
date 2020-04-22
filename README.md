@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/nik0lai/xaringan_test.svg?branch=master)](https://travis-ci.com/nik0lai/xaringan_test)
+
 # xaringan_test
 test gh-pages xaringan slides deploy
 
